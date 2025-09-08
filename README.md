@@ -8,7 +8,6 @@ The World Happiness Report is the world’s foremost publication on global wellb
 Objective
 
 The goal of this analysis is to present different key factors that all have more or less impact on the level of happiness in different countries, and understand the difference between countries that achieve the highest happiness scores, versus countries that achieve the lowest happiness score.  
-<img width="4464" height="155" alt="image" src="https://github.com/user-attachments/assets/62998293-584f-410a-91b3-486380f799fa" />
 
 Data
 
