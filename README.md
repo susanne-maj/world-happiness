@@ -16,5 +16,5 @@ Excel (.csv), Tableau and Jupyter Lab (Python).
 
 Approach 
 Data cleaning and merging in Jupyter Lab (Python), dropping of NaN values, visualizations in Tableau. The time series analysis was not so relevant for this kind of data since each data file per year includes an average for the last three years. Since the data is non stationary, it is more suitable to look at the trend over years for specific countries.
-<img width="4644" height="253" alt="image" src="https://github.com/user-attachments/assets/f54caa5c-a734-4586-8af6-cc851df9909f" />
+
 
