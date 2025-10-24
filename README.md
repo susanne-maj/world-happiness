@@ -21,7 +21,7 @@ Excel (.csv), Tableau and Jupyter Lab (Python).
 Data cleaning and merging in Jupyter Lab (Python), dropping of NaN values, visualizations in Tableau. The time series analysis was not so relevant for this kind of data since each data file per year includes an average for the last three years. Since the data is non stationary, it is more suitable to look at the trend over years for specific countries.
 
 ## Results
-The result is a ranking of how much different factors influence happiness amongst countries. The analysis also gives an overview of what countries are ranked happiest and less happy. The time series analysis was not so relevant for this kind of data since each data file per year includes an average for the last three years. Since the data is non stationary, it is more suitable to look at the trend over years for specific countries. [View the presentation here](./presentation.pdf](https://github.com/susanne-maj/world-happiness/blob/main/05%20Portfolio/Data%20analyst%20portfolio%20-%20Susanne%20Majcug%20-%20Rev%206.pdf)
+The result is a ranking of how much different factors influence happiness amongst countries. The analysis also gives an overview of what countries are ranked happiest and less happy. The time series analysis was not so relevant for this kind of data since each data file per year includes an average for the last three years. Since the data is non stationary, it is more suitable to look at the trend over years for specific countries. [View the presentation in my portfolio](https://github.com/susanne-maj/world-happiness/blob/main/05%20Portfolio/Data%20analyst%20portfolio%20-%20Susanne%20Majcug%20-%20Rev%206.pdf)
 
 
 
